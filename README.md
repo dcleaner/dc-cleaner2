@@ -21,5 +21,18 @@
 
 ![thread](assets/search_result_3.png)
 
+# 갤로그 삭제 데모
+
+![search](assets/gallog.gif)
+
+# 다중 스레드를 활용한 병렬 업무 처리
+
+![search](assets/gallog__thread.png)
+
+# 수행 결과
+> 대략 2분 내외
+
+![search](assets/gallog_result.png)
+
 ### 고마운 갤러들
 ##### 테스트 계정 제공자 14장미님에게 감사함을 전합니다.
