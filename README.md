@@ -34,5 +34,17 @@
 
 ![search](assets/gallog_result.png)
 
+# 덧글 서치 데모
+
+![search](assets/search_reply.gif)
+
+# 갤로그 덧글 삭제
+
+![search](assets/gallog_reply.gif)
+
+# 갤러리 덧글 삭제
+
+![search](assets/gall_reply.gif)
+
 ### 고마운 갤러들
 ##### 테스트 계정 제공자 14장미님에게 감사함을 전합니다.
