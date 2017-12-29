@@ -46,5 +46,12 @@
 
 ![search](assets/gall_reply.gif)
 
+# 갤러리 글 삭제 분단위 테스트
+> 대략 682글 삭제 기준 <br />
+> 35분 ~ 43분 <br />
+> Mac Air RAM 4GB
+
+![search](assets/gall_board_result.png)
+
 ### 고마운 갤러들
 ##### 테스트 계정 제공자 14장미님에게 감사함을 전합니다.
