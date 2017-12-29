@@ -48,7 +48,7 @@
 
 # 갤러리 글 삭제 분단위 테스트
 > 대략 682글 삭제 기준 <br />
-> 35분 ~ 43분 <br />
+> 35분 ~ 43분 간격 (8분) <br />
 > Mac Air RAM 4GB
 
 ![search](assets/gall_board_result.png)
