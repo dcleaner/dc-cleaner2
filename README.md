@@ -53,5 +53,10 @@
 
 ![search](assets/gall_board_result.png)
 
+# 갤러리 덧글 삭제 테스트
+> 35분간 대략 1300 덧글 삭제 (35분) <br />
+
+![search](assets/gall_reply_result.png)
+
 ### 고마운 갤러들
 ##### 테스트 계정 제공자 14장미님에게 감사함을 전합니다.
