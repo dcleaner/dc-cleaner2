@@ -58,5 +58,11 @@
 
 ![search](assets/gall_reply_result.png)
 
+# 결과
+
+![user1](assets/test_user_1.png)
+
+![user2](assets/test_user_2.png)
+
 ### 고마운 갤러들
-##### 테스트 계정 제공자 14장미님에게 감사함을 전합니다.
+##### 테스트 계정 제공자 14장미, 볼빨간별별이님에게 감사함을 전합니다.
