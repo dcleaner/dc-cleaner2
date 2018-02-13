@@ -13,7 +13,6 @@
 ![thread](assets/search_task.png)
 
 # 수행 결과
-> 3000글의 수행 결과 10~12초
 
 ![thread](assets/search_result_1.png)
 
@@ -47,14 +46,10 @@
 ![search](assets/gall_reply.gif)
 
 # 갤러리 글 삭제 분단위 테스트
-> 대략 682글 삭제 기준 <br />
-> 35분 ~ 43분 간격 (8분) <br />
-> Mac Air RAM 4GB
 
 ![search](assets/gall_board_result.png)
 
 # 갤러리 덧글 삭제 테스트
-> 35분간 대략 1300 덧글 삭제 (35분) <br />
 
 ![search](assets/gall_reply_result.png)
 
